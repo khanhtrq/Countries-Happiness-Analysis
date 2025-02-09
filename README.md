@@ -1,4 +1,4 @@
-How to use the programs:
+Running guideline: 
 ----------------
 - First, download and merge the data using `download_data.inbpy`.
 When the program is running, it'll ask you to modify some files, those files can be found inside the `code` folder.
